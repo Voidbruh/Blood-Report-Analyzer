@@ -1,0 +1,7 @@
+# ignore
+
+# env variables
+.env
+
+# cache folders
+__pycache__/
