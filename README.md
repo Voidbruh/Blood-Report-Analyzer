@@ -2,7 +2,7 @@
 
 ## Description
 
-This Project uses the CrewAI framework to create a crew of agents to Analyze Blood Test Reports. The crew takes as input the pdf file of the bllod test report, analyzes it and finds out the normal and abnormal values using the reference ranges(reference ranges are searched online if not provided), summarizes the values with normal and abnormal values, then searches the internet for articles tailored to the person's health needs based on the blood test results, and finally provides health recommendations along with relevant article links.
+This Project uses the CrewAI framework to create a crew of agents to Analyze Blood Test Reports. The crew takes as input the pdf file of the bllod test report, analyzes it and finds out the normal and abnormal values using the reference ranges (reference ranges are searched online if not provided), summarizes the values with normal and abnormal values, then searches the internet for articles tailored to the person's health needs based on the blood test results, and finally provides health recommendations along with relevant article links.
 
 ## Code Description
 
@@ -78,3 +78,9 @@ llama-3.1-8b-instant, llama3-70b-8192, gemma-7b-it, gemma2-9b-it.
     python crew.py
     ```
 - When Prompted, Enter the PDF File name that's present in the directory.
+
+
+## Acknowledgements
+
+- João Moura for creating CrewAI, providing a platform that sparked my interest and learning journey in LLMs.
+- Wingify for offering this assignment as an opportunity to delve into the realm of Large Language Models, providing a practical opportunity for learning and exploration.
