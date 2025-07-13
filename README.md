@@ -79,8 +79,3 @@ llama-3.1-8b-instant, llama3-70b-8192, gemma-7b-it, gemma2-9b-it.
     ```
 - When Prompted, Enter the PDF File name that's present in the directory.
 
-
-## Acknowledgements
-
-- João Moura for creating CrewAI, providing a platform that sparked my interest and learning journey in LLMs.
-- Wingify for offering this assignment as an opportunity to delve into the realm of Large Language Models, providing a practical opportunity for learning and exploration.
